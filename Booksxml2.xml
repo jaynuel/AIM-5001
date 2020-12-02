@@ -1,0 +1,27 @@
+
+<table>
+	<book>
+		<Book>Afrodita</Book>
+        <Author 1>Isabel Allende</Author 1>
+		<Author 2>null</Author 2>
+        <Attribute 1>Recipes</Attribute 1>
+		<Attribute 2>Stories</Attribute 2>
+		<Attribute 3>Spanish</Attribute 3>
+	</book>
+	<book>
+        <Book>To Life!</Book>
+        <Author 1>Harold Kushner</Author 1>
+		<Author 2>Isabel Allende</Author 2>
+        <Attribute 1>Jewish</Attribute 1>
+		<Attribute 2>Wisdom</Attribute 2>
+		<Attribute 3>Humor</Attribute 3>
+	</book>
+	<book>
+        <Book>The Era of Uncertainty</Book>
+        <Author 1>François Trahan, Katherine Krantz</Author 1>
+		<Author 2>Isabel Allende</Author 2>
+        <Attribute 1>Investment</Attribute 1>
+		<Attribute 2>Finance</Attribute 2>
+		<Attribute 3>Global</Attribute 3>
+	</book>
+</table>
