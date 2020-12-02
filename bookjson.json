@@ -1,0 +1,23 @@
+[{
+        "Book": "Afrodita",
+        "Author 1": "Isabel Allende",
+		"Author 2": "null",
+        "Attribute 1": "Recipes",
+		"Attribute 2": "Stories",
+		"Attribute 3": "Spanish"
+    }, {
+        "Book": "To Life!",
+        "Author 1": "Harold Kushner",
+		"Author 2": "null",
+        "Attribute 1": "Jewish",
+		"Attribute 2": "Wisdom",
+		"Attribute 3": "Humor"
+    }, {
+        "Book": "The Era of Uncertainty",
+        "Author 1": "François Trahan",
+		"Author 2": "Katherine Krantz",
+        "Attribute 1": "Investment",
+		"Attribute 2": "Finance",
+		"Attribute 3": "Global"
+    }
+]
