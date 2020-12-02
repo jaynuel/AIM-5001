@@ -1,0 +1,18 @@
+{
+    "Books": {
+        "Book": "Afrodita",
+        "Author": "Isabel Allende",
+        "Attributes": [Recipes, Stories, Spanish]
+    }, {
+        "Book": "To Life!",
+        "Author": "Harold Kushner",
+        "Attributes": [Jewish, Wisdom, Humor]
+    }, {
+        "Book": "The Era of Uncertainty",
+        "Author": {
+            "Author1": "François Trahan",
+            "Author2": "Katherine Krantz"
+        }
+        "Attributes": [Investment, Finance, Global]
+    }
+}
